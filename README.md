@@ -4,9 +4,10 @@
 To be completed in the last module of the semester.
 
 ### Information System Components
-
+The components of Information System are hardware, software, data, people, and processes. The first three are technology. Hardware is the physical portions: the computers, keyboards, disk drives, etc. Software is the set of instructions that tell the hardware what to do, it is not tangible. Data is the collection of information. The next component is People, and people are really important because they are the ones that have the ideas and knowledge to use these prior components. The final part is Process, where all the parts come together to achieve a goal. 
 ### Software
 #### GitHub
+My experience with GitHub has been average because I really have not done much with it, but I understand its importance and its utilization. The Client (AKA the PC or whatever is being used) connects to the central computer, the Server. The Client can access data from the Server. Cloud Computing is a different way of doing this. It uses a network of servers hosted by the internet rather than using a Server or PC.
 #### Screen Capture
 #### Application, Utility, and Operating Systems
 #### ERP
