@@ -9,6 +9,7 @@ The components of Information System are hardware, software, data, people, and p
 #### GitHub
 My experience with GitHub has been average because I really have not done much with it, but I understand its importance and its utilization. The Client (AKA the PC or whatever is being used) connects to the central computer, the Server. The Client can access data from the Server. Cloud Computing is a different way of doing this. It uses a network of servers hosted by the internet rather than using a Server or PC.
 #### Screen Capture
+I used the Snipping Tool on Microsoft Devices to take this Screen Capture. The name of this file is ScreenCapture.PNG. The file size is 25KB and 28KB on disk. This is a .PNG file, which is associated with images.
 #### Application, Utility, and Operating Systems
 #### ERP
 #### Virtualization
