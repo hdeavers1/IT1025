@@ -24,8 +24,11 @@ Python is a programming language that is considered easy and fun when creating p
 
 ### Career Exploration
 #### Bureau of Labor Statistics
+It seems that the job market is a new low, with an average .6 unemployed persons per job openings. This seems like it would be difficult to obtain a job if unemployed. But if we were to obtain a job, the pay would be pretty good. The media annual wage for computer and information technology occupations wa $91,250 in May 2020, which was higher than the media annual wage for all occupations of $41,950. Which would be a substantail step-up from the $25,000 I make from the Sandwich Shop job. These job listings require at least a Bachelor's degree. 
 #### Handshake
+The Handshake website is really interactive and actually asks you what kind of job is like. I will proably use this website in the future.
 #### Certifications, Certificates, and Degrees
+
 #### Industry Associations and Student Organizations
 
 ### Computer Architecture
