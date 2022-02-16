@@ -11,7 +11,9 @@ My experience with GitHub has been average because I really have not done much w
 #### Screen Capture
 I used the Snipping Tool on Microsoft Devices to take this Screen Capture. The name of this file is ScreenCapture.PNG. The file size is 25KB and 28KB on disk. This is a .PNG file, which is associated with images.
 #### Application, Utility, and Operating Systems
+The role of Application software is to performs specific tasks such as video games or word processors. Utility Software are programs that allow you to modify or fix you computer in some way. An example of a Utility software is an anti-malware software. The roles of Operating Systems is to manage hardware resources of the computer, provide user-interface components, and provide a platform for software developers to write applications. An example of an Operating System would be Microsoft Windows.
 #### ERP
+ERP, or Enterprise Resource Planning, is made with the purpose to keep an organization within one program. The softwar uses a central database that is implemented throughout the entire organization. An example of this would Oracle or Microsoft.
 #### Virtualization
 #### Python
 #### Graphic Modeling and Rendering
