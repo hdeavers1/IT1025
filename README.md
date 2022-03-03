@@ -35,8 +35,17 @@ I would consider obtaining the CySA+ (CompTIA Cybersecurity Analyst certificatio
 The IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity. IEEE and its members inspire a global community through its highly cited publications, conferences, technology standards, and professional and educational activities. It would be benefitial to join this organization for reputation purposes.
 ### Computer Architecture
 #### CPU
+A. The CPU, or Central Processing Unit, retrieves and executes instructions. The ALU is a component within the CPU. The ALU, Arithmetic Logic Unit, does all of the mathematical operations for the CPU. The CPU will retrieve a set of instructions from the RAM and if there is a mathematical operation, it will be sent to the ALU to conduct the operation. The ALU will output the result to the Register, which is just a temporary holding place for the result. The result will go on to the CPU "bus", which is a bunch of wire and is used to transport the value to where ever is needed, then the Register will be cleared for another result. 
+B. Consider the situation where you are using the self check-out at a grocery store. 
+The input in this case would be scanning a barcode, it is then checked by the CPU. The CPU looks for a match of information, once it is found, the object's information (name and price) would be output as a display on the monitor.
+CPU: Does all of the calculations while referencing the memory.
+Input: Takes input from things such as the mouse, camera, keyboard, and camera. The input is then stored as binary inside the computer.
+Output: Outputs information like displaying on a monitor or smartphone. The output is from the input and CPU.
 #### Gates and Circuits
+Truth table: A truth table is a table that displays all of the possible inputs and outputs that can happen at a gate. 
+AND gate compared to OR gate: An AND gate works on the condition that both electrical inputs are on, then a number 1 is output, otherwise (if one or none are on) a zero will be output. An OR gate works differently, a 1 will be output if one or both are on. A zero will only be output if both are not on.
 #### IEEE
+IEEE is the world's largest techincal prefessional organization dedicated to advancing technology for the benefit of humanity. IEEE aims to foster awareness on ethical issues, promote ethical behavior among those working within IEEE, and create a world in which engineers and scientists are respected for exemplary ethical behavior.
 #### Storage
 #### Memory
 #### Data Representation
