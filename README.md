@@ -56,6 +56,12 @@ Increasing RAM allows more memory to be stored and increases speed becauses it t
 B.Explain two differences between RAM and hard disk storage.
 Difference between RAM and Hard disk storage: RAM is used to store data that the CPU needs to access instantaneously and is erased when the computer is turned off, Hard disk had permanent storage. RAM is used to store computer programs while Hard disk is used to store important files such as the operating system.
 #### Data Representation
+Decimal: The base-10 number system uses the ten single digit numbers: 0 through 9.
+Binary: Known as the Base 2 system. This makes use of the numbers 0 and 1 to define a character like A or 4. A binary number is made up of bits where they can either be on or off (0 or 1).
+Hexadecimal: Base 16 number system. The characters that compose it are 0,1,2,3,4,5,6,7,8,9,0,A,B,C,D,E and F. A represent 10, B is 11, and so on to 16.
+3DecimalConversion: Here I convert the decimal number 198 to binary.
+4BinaryConversion: Here I convert the binary representation 10001101 to decimal.
+Using the website Colorhexa, I entered #ab0fff and it said that the closest websafe color would be #9900ff. This is because there is an inconsistancy with color and people, some people are colorblind. There are even legal standards for contrast levels between text and background to make sure that webpages are readable for all people.
 #### Operating Systems
 
 ### Networking
