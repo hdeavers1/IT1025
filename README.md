@@ -47,7 +47,14 @@ AND gate compared to OR gate: An AND gate works on the condition that both elect
 #### IEEE
 IEEE is the world's largest techincal prefessional organization dedicated to advancing technology for the benefit of humanity. IEEE aims to foster awareness on ethical issues, promote ethical behavior among those working within IEEE, and create a world in which engineers and scientists are respected for exemplary ethical behavior.
 #### Storage
+Hard Drive Latency: Latency is the average time for the sector being accessed to rotate into position under a head, after a completed seek. A drive's average access time is the interval between the time a request for data is made by the system and the time the data is available from the drive. 
+Hard Drive Transfer Rates: The disk transfer rate is the speed at which data is transferred to and from the disk media and is a function of the recording frequency. Generally described in megabytes per second (MBps).
+Solid State hard drive: a storage device that uses solid state memory to store data. SSDs have no moving parts compared to traditional hard drives. Data is stored into word length pieces and stored in memory, which is then accessed instantaneously using system-wide addresses.
 #### Memory
+Increasing RAM allows more memory to be stored and increases speed becauses it takes a shorter path to the CPU (RAM to CPU) compared to going from the Hard Drive to the RAM and then the CPU.
+64 and 32 bit data path refers to the number of bits that are transferred in 1 clock cycle, so the more bits, the faster the computer will be.
+B.Explain two differences between RAM and hard disk storage.
+Difference between RAM and Hard disk storage: RAM is used to store data that the CPU needs to access instantaneously and is erased when the computer is turned off, Hard disk had permanent storage. RAM is used to store computer programs while Hard disk is used to store important files such as the operating system.
 #### Data Representation
 #### Operating Systems
 
