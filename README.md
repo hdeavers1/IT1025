@@ -1,4 +1,4 @@
-## Hayden Deavers / March 3rd, 2022
+## Hayden Deavers / March 24th, 2022
 
 ## Executive Summary
 To be completed in the last module of the semester.
@@ -82,6 +82,10 @@ IT1025Folder: In this screenshot, I created a new directory (a folder) with the 
 
 ### Software Development
 #### Algorithms
+Variables: Variable names can only be one word. It can use only letters, numbers, and the underscore. It cannot begin with a number. 
+Assigned Statement: An Assignment Statement consists of a variable name, an equal sign, and the value to be stored. Ex: num = 20.
+Function: Python can do math. It follows in the order of Parentheses, multiplication/division, and addition/subtraction. 
+Data Types: A data type is a category for valyes, and every value belongs to one data type. The integer data type indicates values that are whole numbers. The Floating-point data type is for numbers with decimal points. The String data type is a data type that can store multiple characters at once within " ' ' " single quotations. 
 #### Object Oriented Concepts
 
 ### Database Systems
