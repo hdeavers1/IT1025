@@ -63,7 +63,7 @@ Hexadecimal: Base 16 number system. The characters that compose it are 0,1,2,3,4
 4BinaryConversion: Here I convert the binary representation 10001101 to decimal.
 Using the website Colorhexa, I entered #ab0fff and it said that the closest websafe color would be #9900ff. This is because there is an inconsistancy with color and people, some people are colorblind. There are even legal standards for contrast levels between text and background to make sure that webpages are readable for all people.
 #### Operating Systems
-
+IT1025Folder: In this screenshot, I created a new directory (a folder) with the Command Prompt from my Windows Operating System. 
 ### Networking
 #### Data Transmission
 #### Hardware
