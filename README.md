@@ -21,6 +21,16 @@ Python is a programming language that is considered easy and fun when creating p
 Python1, this is my first Python file, I wrote "Hello, Hayden!"                
 Python2, this file is where I added two numbers to find the sum. I also wrote "My name is Hayden", along with "The number is"
 #### Graphic Modeling and Rendering
+Difference between a Raster and Vector image:
+Raster: made millions of pixels, viewed at the original size, they are impossible to see. But up close, they can be seen better. 
+Vector: Made at any size, and will have the same quality. They are rendered with geometry. 
+Image Format (Lossless vs. Lossy Compression):
+Lossless: File compression that reduces a file's size with no loss of quality. The resulting files are typically much larger than image and audio files compressed with lossy compression.
+Lossy: File compression that results in lost data and quality from the original version. The resulting file often takes up much less disk space than the original.
+Similarities and Differences between .jpg, .gif, and .png:
+GIF: Graphics Interchange Format, supports up to 8 bits per pixel, allows for animated images.
+JPEG: Joint Photographic Expers Group, an image format that uses lossy compression to create smaller file sizes, allows the designer to tune the amount of compression used, prone to artifacting.
+PNG: Portable Network Graphics uses lossless data compression, created to replace GIF format, supports a number of transparency options, supports palette-based color, greyscale, RGBA, and RGB color spaces.
 #### File Compression
 #### Artificial Intelligence
 
