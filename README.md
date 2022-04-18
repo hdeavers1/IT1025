@@ -76,10 +76,23 @@ Using the website Colorhexa, I entered #ab0fff and it said that the closest webs
 IT1025Folder: In this screenshot, I created a new directory (a folder) with the Command Prompt from my Windows Operating System. 
 ### Networking
 #### Data Transmission
+Data Transmission- The process of sending digital or analog data over a communication medium to one or more computing, network, communication or electronic devices.
+Packet- The fundamental unit of data transmitted over the Internet.
+Packet-Switching- When a message's packets are sent on the Internet, routers try to find the optimal route for each packet. This can result in packets being sent on different routes to their destination. After the packets arrive they are re-assembled into the original message for the recipient.
+IP Address- A unique identifying number for evert device on the Internet.
+DNS- Stands for "domain name server or system." DNS acts as the directory of websites on the Internet.
+Protocol- The set of rules that govern how communications take place on a network.
 #### Hardware
+The benefit of a switch over a hub: A switch can learn the addresses of the device connected to it, so it can direct data to a specific port, rather than all of the ports.
+The benefit of a router over hubs and switches: A router can exchange data outside of its own network, such as the Internet. 
 #### Topologies and Types of Networks
+Single point failure: When a hub or switch gets disconnected and the entire network goes down, this happens for Star topology.
+Infrastructure Topology vs. Wireless Mesh: I believe that the Wirelss Mesh Topology is much better than Infrastructure topology because it uses less wires and allows the access of internet throughout a wide area.
 #### Protocols
-
+There are thousands of different network protocols, but they all perform one of three primary action: Communcation, Network management, and Security.
+Communication: Automation is an example of Communication Protocol, these protocols are used to automate different processes in both commercial and personal settings.
+Network management: Connection is an example of Network Management protocol, these protocols establish and maintain stable connections between different devices on the same network.
+Security: Encryption is an example of Security protocol, encryption protocols protect data and secure areas by requiring users to input a secret key or password in order to access that information.
 ### Cybersecurity and Encryption
 #### Security Triad
 #### Caesar and Polyalphabetic Ciphers
