@@ -95,6 +95,7 @@ Network management: Connection is an example of Network Management protocol, the
 Security: Encryption is an example of Security protocol, encryption protocols protect data and secure areas by requiring users to input a secret key or password in order to access that information.
 ### Cybersecurity and Encryption
 #### Security Triad
+
 #### Caesar and Polyalphabetic Ciphers
 #### Public and Private Key Encryption
 #### Brute-Force Attacks
