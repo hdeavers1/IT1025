@@ -1,4 +1,4 @@
-## Hayden Deavers / April 17th, 2022
+## Hayden Deavers / April 26th, 2022
 
 ## Executive Summary
 To be completed in the last module of the semester.
@@ -93,6 +93,15 @@ There are thousands of different network protocols, but they all perform one of 
 Communication: Automation is an example of Communication Protocol, these protocols are used to automate different processes in both commercial and personal settings.
 Network management: Connection is an example of Network Management protocol, these protocols establish and maintain stable connections between different devices on the same network.
 Security: Encryption is an example of Security protocol, encryption protocols protect data and secure areas by requiring users to input a secret key or password in order to access that information.
+HTTP: hypertext transfer protocol. The protocol used for viewing webpages on the Internet. 
+Protocols used by secure HTTP to protect data: HTTPS encrypts the data that is being retrieved by HTTP and uses encryption algorithms to scramble the data that is being transfered.
+SSL: Secure Sockets layer, protocal that uses public key encryption to secure data. Websites will send a SSL certificate to prove its trustworthyness. 
+TLS: Transport layer security, successor to SSL. Authenticates the server, client and encrypts the data. 
+#### IP Address
+What is an IP Address?: The unique numbers assigned to every computer or device that is connected to the Internet.
+Difference between IPv4 and IPv6: Capacity, IPv4 is full of Internet Services Providers and users. IPv4 is running out of space and IPv6 will have more room for a lot more ISPS and users. 
+#### ICANN
+What is ICANN: Formed in 1998. It is a non-profit partnership of people from all over the world dedicated to keeping the Internet secure, stable and interoperable. It promotes competition and develops policy on the Internet's unique identifiers.
 ### Cybersecurity and Encryption
 #### Security Triad
 
