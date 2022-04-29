@@ -111,6 +111,11 @@ What is ICANN: Formed in 1998. It is a non-profit partnership of people from all
 
 ### Internet Programming
 #### Components of a URL
+scheme: the being of the url, usually "http://"
+domain: the most prominent part of the web address. example:www.amazon.com
+top level domain: the ending of the url, an example is .edu
+parameters: a string of characters after the path.
+anchor: tells the browser to scroll to or load a specific part of the page.
 #### World Wide Web Consortium
 Tim Berners-Lee: the inventor of the World Wide Web.
 Standard of my choice: Web Architecture focuses on the foundation technologies and principles which sustain the Web, including URLs and HTTP.
