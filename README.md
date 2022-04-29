@@ -1,4 +1,4 @@
-## Hayden Deavers / April 26th, 2022
+## Hayden Deavers / April 28th, 2022
 
 ## Executive Summary
 To be completed in the last module of the semester.
@@ -112,7 +112,8 @@ What is ICANN: Formed in 1998. It is a non-profit partnership of people from all
 ### Internet Programming
 #### Components of a URL
 #### World Wide Web Consortium
-
+Tim Berners-Lee: the inventor of the World Wide Web.
+Standard of my choice: Web Architecture focuses on the foundation technologies and principles which sustain the Web, including URLs and HTTP.
 ### Software Development
 #### Algorithms
 Variables: Variable names can only be one word. It can use only letters, numbers, and the underscore. It cannot begin with a number. 
