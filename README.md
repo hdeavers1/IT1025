@@ -132,6 +132,8 @@ i. Attributes of the shark class: Swimming and being awesome.
 ii. Methods of the shark class: the methods of the shark class is swimming and being awesome.
 iii. Purpose of constructor: the constructor method is used to initialize data.  
 iv. Class vs. Object: an object is an instance of a class, the object will be passed through the class to gain attributes of that class.
+What command instantiates an object: _init_() is used to instantiate an object
+Inheritance in OOP: When one class inherits the attributes and methods of another class.
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
 #### Data and Business Decisions
