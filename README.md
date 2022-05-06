@@ -1,4 +1,4 @@
-## Hayden Deavers / April 28th, 2022
+## Hayden Deavers / May 6th, 2022
 
 ## Executive Summary
 To be completed in the last module of the semester.
@@ -32,11 +32,13 @@ GIF: Graphics Interchange Format, supports up to 8 bits per pixel, allows for an
 JPEG: Joint Photographic Expers Group, an image format that uses lossy compression to create smaller file sizes, allows the designer to tune the amount of compression used, prone to artifacting.
 PNG: Portable Network Graphics uses lossless data compression, created to replace GIF format, supports a number of transparency options, supports palette-based color, greyscale, RGBA, and RGB color spaces.
 #### File Compression
+The purpose of file compression: to compress the total file size, so it can take less time to upload.
+Difference in file size after compression: The current file size before the file compression is 2.54KB. After the file compression, the file size is 1.08KB. A difference of 1.46KB. After compression a JPEG file, the file size went from 26.8KB to 18.7KB.
 #### Artificial Intelligence
 
 ### Career Exploration
 #### Bureau of Labor Statistics
-It seems that the job market is at a new low, with an average .6 unemployed persons per job openings. This seems like it would be difficult to obtain a job if unemployed. But if we were to obtain a job, the pay would be pretty good. The media annual wage for computer and information technology occupations wa $91,250 in May 2020, which was higher than the media annual wage for all occupations of $41,950. Which would be a substantail step-up from the $25,000 I make from the Sandwich Shop job. These job listings require at least a Bachelor's degree. 
+It seems that the job market is at a new low, with an average .6 unemployed persons per job openings. This seems like it would be difficult to obtain a job if unemployed. But if we were to obtain a job, the pay would be pretty good. The media annual wage for computer and information technology occupations was $91,250 in May 2020, which was higher than the media annual wage for all occupations of $41,950. Which would be a substantail step-up from the $25,000 I make from the Sandwich Shop job. These job listings require at least a Bachelor's degree. 
 #### Handshake
 The Handshake website is really interactive and actually asks you what kind of job is like. I will proably use this website in the future.
 #### Certifications, Certificates, and Degrees
