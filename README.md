@@ -1,4 +1,4 @@
-## Hayden Deavers / May 6th, 2022
+## Hayden Deavers / May 13th, 2022
 
 ## Executive Summary
 To be completed in the last module of the semester.
@@ -136,8 +136,17 @@ What command instantiates an object: _init_() is used to instantiate an object
 Inheritance in OOP: When one class inherits the attributes and methods of another class.
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
+SQL: SQL stands for Structured Query Language. NoSQL stands for "Not only SQL"
+Difference between SQL and NoSQL: SQL is structured in a way that only one person would be able to manipulate a piece of data at a time, NoSQL allows for multiple people to work on multiple pieces of data at the same time. 
+The 4 V's of big data: Volume, Variety, Velocity, Variability. Volume is related to size, Variety is related different types of data, Velocity is related to the speed of data, and Variability is related to the inconsistency of data at times. 
+Demand of big data: Large tech companies have been gathering data on their users in order improve customer services and efficiency. They collect data for a multitude of reasons.
 #### Data and Business Decisions
-#### The relational model and Normalization
+The three business decisions that could be answered with a well designed database:
+Customer Feedback, When something was purchased, Is the Company Improving.
+#### The Relational Model and Normalization
+Primary and Foreign Keys: A primary key must be selected for each table in a relational database, a unique identifier for each record in the table. A foreign key is a field in one table that connects to the primary key data in the original table. 
+Normalization: to normalize a database means to desing it in a way that reduces data redundancy and ensures data integrity. 
+Using these concepts should provide an organized data set that could be used to answer some big questions.
 #### SQL Injections
 
 ### Legal and Ethical Responsibilities in Computing
