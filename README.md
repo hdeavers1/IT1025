@@ -150,6 +150,13 @@ Using these concepts should provide an organized data set that could be used to 
 #### SQL Injections
 
 ### Legal and Ethical Responsibilities in Computing
+Code of Ethics: a document that outlines a set of acceptable behaviors for a proessional or social group; generally, it is agreed to by all members of the group.
+ACM: The Association for Computing Machinery created their code to protect people, they added in a section that discusses never using another's computer system, software, or data files without permission.
+Role of a trademark in defining the intellectual property: Itellectual property is defined as "property (as an idea, invention, or process) that derives from the work of the mind or intellect", it is difficult to protect an idea so the trademark is used to mark who actually owns the idea. 
+How might it be important to copyright svg image: people can just steal an online image an claim it is their own. Without copyright, a screenshot and photo editing can be used to erase watermarks. 
+COPPA: Children's Online Privacy Protection Act, which means organizations must make a good-faith effort to determine the age of those accessing their websites and, if users are under thirteen years old, must obtain parental consent before collecting any information.
+FERPA: Family Educational Rights and Privacy Act, protects the privacy of student education records.
+HIPPA: Health Insurance Portability and Accountability Act, the law that specifically singles out records related to health care as a special class of personally identifiable information. Gives patients specific rights to control their m edical records, requires health care providers and others who maintain this information to get specific permission in order to share it, and imposes penalties on the institutions that breach this trust.
 
 ## Conclusion
 To be completed in the last module of the semester.
